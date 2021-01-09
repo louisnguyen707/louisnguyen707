@@ -1,16 +1,27 @@
-### Hi there 👋
+### Here is what I working on 
+1. 🔭 My experience ...
+  - Front-End: Angular, Vuejs + Nuxtjs , Ionic 
+  - Back-End: Deno (https://deno.land/)
+  - Language: JavaScript
+  - DataBase: MongoDB
+2. 👋 I’m currently working on ...
+   - i18n.dev (Deno - https://deno.land + Typescript + Mongo + Vuejs)
+3.  I am currently studying ...
+   - How to use Deno + MongoDB + Nuxtjs
+   - How to be better at JavaScript
+   
+4. 👯 I want to learn about ... Javascript and exchange technical knowledge
 
-<!--
-**louisnguyen707/louisnguyen707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5. 🤔 I'm looking for help on ... how to codding well ^^
 
-Here are some ideas to get you started:
+6. 💬 Ask me about ... Everything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+7. 📫 How to contact me: ... My Linkedin
+
+8. 😄 pronoun: ... Subin
+
+9. ⚡ Interesting facts: ...
+
+
+### My master: hoangtranson - https://github.com/hoangtranson
+
