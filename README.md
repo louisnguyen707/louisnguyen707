@@ -23,5 +23,5 @@
 9. ⚡ Interesting facts: ...
 
 
-### My master: hoangtranson - https://github.com/hoangtranson
+### My master: @hoangtranson - https://github.com/hoangtranson
 
