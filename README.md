@@ -18,7 +18,7 @@
 
 7. 📫 How to contact me: ... My Linkedin
 
-8. 😄 pronoun: ... Subin
+8. 😄 pronoun: ... 
 
 9. ⚡ Interesting facts: ...
 
